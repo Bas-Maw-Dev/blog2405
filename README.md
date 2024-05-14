@@ -1,12 +1,11 @@
 # README
+## Project Blog2405
+Following the Ruby on Rails guide and trying to substitute haml for erb files
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Ruby version
+ruby 3.1.2
 
-Things you may want to cover:
-
-* Ruby version
-
+## TODO
 * System dependencies
 
 * Configuration
