@@ -69,3 +69,5 @@ group :test do
 end
 
 gem "haml", "~> 6.3"
+
+gem "rspec-rails", "~> 6.1"
